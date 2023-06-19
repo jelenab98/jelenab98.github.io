@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Jelena Bratulić"
-  avatar           : "profile.png"
+  avatar           : "fer_profilna_square.jpeg"
   bio              : "Master student and Junior Researcher at University of Zagreb - Faculty of Electrical Engineering with interest in computer vision and deep learning."
   location         : "Zagreb, Croatia"
-  employer         : "UNIZG FER"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.hr/citations?user=Y7GCFsAAAAAJ"
   email            :  "jelena.bratulic@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "https://www.linkedin.com/in/jelena-bratulic/"
+  linkedin         :  "jelena-bratulic"
   orcid            : "https://orcid.org/0009-0007-2835-4168"
   pinterest        :
   soundcloud       :
